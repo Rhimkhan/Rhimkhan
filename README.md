@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rhimkh</h1>
+<h1 align="center">Hi 👋, I'm Rhimkhan</h1>
 <h3 align="center">A passionate developer building cool things</h3>
 
 ### 🛠️ Languages and Tools
