@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rhimkhan</h1>
-<h3 align="center">A passionate developer building cool things</h3>
+<h3 align="center">3rd-year B.Tech (AI & ML) student building projects in Machine Learning, Computer Vision & NLP"</h3>
 
 ### 🛠️ Languages and Tools
 
