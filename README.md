@@ -1,6 +1,6 @@
 <p data-importer="text" align="left">Hello World!!</p>
 
-###
+---
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -14,7 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
 </div>
 
-###
+---
 
 <div data-importer="socials" align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -23,17 +23,19 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
 
-###
+---
 
- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=rhimkhan&show_icons=true&theme=dracula" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhimkhan&layout=compact&theme=dracula" width="48%" /> </p>
-###
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rhimkhan&show_icons=true&theme=dracula" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhimkhan&layout=compact&theme=dracula" width="48%" />
+</p>
+
+---
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/rhimkhan/rhimkhan/snake-output/snake.svg" alt="Snake animation" />
 
-###
+---
 
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=rhimkhan.rhimkhan&"  />
 </div>
-
-###
