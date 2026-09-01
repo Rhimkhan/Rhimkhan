@@ -131,7 +131,8 @@ https://voxsentry-web.vercel.app/
 
 <div align="center">
 
-<img src="./trophy.svg" width="90%" />
+<img src="https://github-profile-trophy.vercel.app/?username=rhimkhan&theme=dracula&no-frame=true&row=2&column=4" width="90%" />
+
 
 </div>
 
