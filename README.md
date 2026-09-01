@@ -117,31 +117,31 @@ https://voxsentry-web.vercel.app/
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rhimkhan&theme=dracula&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rhimkhan&theme=dracula&hide_border=true" width="90%" />
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rhimkhan&theme=dracula&no-frame=true&no-bg=true&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=Rhimkhan&theme=dracula&no-frame=true&no-bg=true&margin-w=10&column=6&row=1" width="90%" />
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/rhimkhan">
+<a href="https://github.com/Rhimkhan">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -152,8 +152,6 @@ https://voxsentry-web.vercel.app/
 </div>
 
 ---
-
-<div align="center">
 
 ### 💡 Turning Ideas Into Intelligent Solutions 🚀
 
