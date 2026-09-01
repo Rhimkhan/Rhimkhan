@@ -75,33 +75,13 @@ https://voxsentry-web.vercel.app/
 
 ---
 
-### 🤖 AI Code Review Agent
 
-An AI-powered code review system that uses multiple AI agents to analyze source code.
-
-**Features:**
-
-- 🔐 Security vulnerability detection
-- 🧹 Code quality analysis
-- 🤖 AI-powered suggestions
-- 📊 Multi-agent code analysis
-- 🔑 GitHub authentication
 
 **Tech Stack:**  
 `Python` `FastAPI` `Multi-Agent AI` `Groq` `Bandit` `PostgreSQL` `SQLAlchemy`
 
 ---
 
-### 🗑️ SmartBin AI
-
-**AI-Based Garbage Fill Level Monitoring System**
-
-A smart waste-management solution designed to monitor garbage-bin fill levels and improve waste collection efficiency.
-
-**Tech:**  
-`AI` `IoT` `Python` `Computer Vision`
-
----
 
 ### 🛒 ShopSphere
 
