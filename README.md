@@ -85,7 +85,8 @@ https://voxsentry-web.vercel.app/
 
 
 
-# 📊 GitHub Stats
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -96,7 +97,6 @@ https://voxsentry-web.vercel.app/
 </div>
 
 ---
-
 # 🔥 GitHub Streak
 
 <div align="center">
