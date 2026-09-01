@@ -90,9 +90,9 @@ https://voxsentry-web.vercel.app/
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rhimkhan&show_icons=true&theme=dracula&hide_border=true" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=Rhimkhan&show_icons=true&theme=dracula&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhimkhan&layout=compact&theme=dracula&hide_border=true" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rhimkhan&layout=compact&theme=dracula&hide_border=true" width="48%" />
 
 </div>
 
