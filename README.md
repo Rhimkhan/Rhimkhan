@@ -83,32 +83,7 @@ https://voxsentry-web.vercel.app/
 ---
 
 
-### 🛒 ShopSphere
 
-A full-stack e-commerce web application.
-
-**Features:**
-
-- 🔐 JWT Authentication
-- 👤 User Management
-- 🛍️ Product Management
-- 🛒 Shopping Cart
-- 🌙 Modern UI
-- 🔒 Password Security
-
-**Tech Stack:**  
-`React` `Vite` `Node.js` `Express` `MongoDB` `JWT`
-
----
-
-### 🚢 Titanic Prediction
-
-A Machine Learning project for predicting Titanic passenger survival using **Random Forest**.
-
-**Tech:**  
-`Python` `Pandas` `NumPy` `Scikit-Learn` `Random Forest`
-
----
 
 # 📊 GitHub Stats
 
