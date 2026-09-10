@@ -71,14 +71,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
+## 📊 GitHub Stats & Activity
 <div align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=Rhimkhan&show_icons=true&theme=dracula&hide_border=true" width="400" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rhimkhan&layout=compact&theme=dracula&hide_border=true" width="400" />
+<img src="./metrics.svg" alt="3D Contribution Calendar" />
 </div>
-
----
 
 ## 🔥 GitHub Streak
 
