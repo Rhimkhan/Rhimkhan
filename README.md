@@ -84,13 +84,6 @@
 
 ---
 
-## 📅 Contribution Calendar
-
-<div align="center">
-<img src="https://ghchart.rshah.org/rhimkhan" alt="GitHub Contribution Calendar" />
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
