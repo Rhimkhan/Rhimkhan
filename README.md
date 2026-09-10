@@ -37,13 +37,8 @@
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 </p>
 
-<p>
-<b>Machine Learning:</b> Scikit-Learn • NumPy • Pandas • Matplotlib
-</p>
-
-<p>
-<b>AI:</b> Deep Learning • Computer Vision • NLP • Generative AI
-</p>
+<p><b>Machine Learning:</b> Scikit-Learn • NumPy • Pandas • Matplotlib</p>
+<p><b>AI:</b> Deep Learning • Computer Vision • NLP • Generative AI</p>
 
 ### 🌐 Web Development
 
@@ -59,7 +54,7 @@
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ### 🎙️ VoxSentry
 
@@ -70,70 +65,41 @@
 - ⚡ Real-time detection
 - 🔐 Focused on preventing voice impersonation attacks
 
-🔗 **Live Project:**  
-https://voxsentry-web.vercel.app/
+🔗 **Live Project:** https://voxsentry-web.vercel.app/
+
+**Tech Stack:** `Python` `FastAPI` `Multi-Agent AI` `Groq` `Bandit` `PostgreSQL` `SQLAlchemy`
 
 ---
-
-
-
-**Tech Stack:**  
-`Python` `FastAPI` `Multi-Agent AI` `Groq` `Bandit` `PostgreSQL` `SQLAlchemy`
-
----
-
-
-
-
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
 <img src="https://github-stats-extended.vercel.app/api?username=Rhimkhan&show_icons=true&theme=dracula&hide_border=true" width="400" />
-
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rhimkhan&layout=compact&theme=dracula&hide_border=true" width="400" />
-
 </div>
 
 ---
-# 🔥 GitHub Streak
+
+## 🔥 GitHub Streak
 
 <div align="center">
-
 <img src="https://streak-stats.demolab.com?user=rhimkhan&theme=dracula&hide_border=true" />
-
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+## 📅 Contribution Calendar
 
 <div align="center">
+<img src="https://ghchart.rshah.org/rhimkhan" alt="GitHub Contribution Calendar" />
+</div>
 
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
 <img src="https://raw.githubusercontent.com/rhimkhan/rhimkhan/snake-output/snake.svg" alt="Snake animation" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rhimkhan&theme=dracula&hide_border=true" width="90%" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rhimkhan&theme=dracula&no-frame=true&row=2&column=4" width="90%" />
-
-
 </div>
 
 ---
@@ -141,15 +107,12 @@ https://voxsentry-web.vercel.app/
 ## 🌐 Connect With Me
 
 <div align="center">
-
 <a href="https://github.com/Rhimkhan">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 <a href="mailto:rhim78975730@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 </div>
 
 ---
