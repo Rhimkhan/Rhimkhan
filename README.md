@@ -83,8 +83,6 @@
 </div>
 
 ---
- ## 📊 GitHub Stats & Activity <div align="center"> <img src="./metrics.svg" alt="GitHub Metrics" /> </div>
-
 
 ## 🐍 Contribution Snake
 
