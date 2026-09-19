@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 HELLO, I'm R him khan
+# 👋 Hi, I'm R him khan
 
 ### 🤖 AI / ML Developer | Python Developer | CSE Student
 
