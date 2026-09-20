@@ -9,36 +9,6 @@ Currently Building: AI/ML projects, full-stack web applications, and intelligent
 Always Learning: Advanced deep learning, cloud architecture, and system design
 Open To: Collaborations, discussions, and learning opportunities
 
-💼 What I Do
-🤖 Machine Learning & AI
-Classification & Regression models
-Object Detection (YOLOv8, Computer Vision)
-Natural Language Processing (NLP)
-Data preprocessing & Feature engineering
-Exploratory Data Analysis (EDA)
-ML model deployment & evaluation
-💻 Full-Stack Web Development
-Frontend: React, HTML5, CSS3, Tailwind CSS
-Backend: Node.js, Express, Flask, FastAPI
-REST API development & integration
-Database design & management
-Responsive & mobile-friendly UI
-Production-ready deployments (Vercel, AWS)
-📊 Data Science & Analysis
-Pandas, NumPy, Scikit-Learn
-Data visualization & insights
-Hyperparameter tuning
-Cross-validation & model evaluation
-Statistical analysis
-🛠️ Tools & Technologies
-Version Control: Git, GitHub
-IDEs: VS Code, Jupyter Notebook
-API Testing: Postman
-Cloud: AWS, Vercel
-Databases: MongoDB, MySQL, Firebase
-🛠️ Tech Stack
-📝 Programming Languages
-Show Image Show Image Show Image Show Image
 
 🎨 Frontend Development
 Show Image Show Image Show Image Show Image
@@ -111,58 +81,12 @@ Algorithms: Logistic Regression, Random Forest, SVM, Decision Trees
 Techniques: Cross-validation, Hyperparameter tuning
 Key Features:
 
-📊 Detailed Exploratory Data Analysis (EDA)
-🔧 Advanced feature engineering & preprocessing
-🤖 Multiple ML algorithms comparison
-📈 Comprehensive model evaluation & metrics
-🎯 Hyperparameter optimization
-📉 Professional data visualization
-Repository: 💻 View Code
 
 📊 GitHub Statistics
 <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rhimkhan&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhimkhan&layout=compact&langs_count=8&theme=dark&bg_color=0d1117" alt="Top Languages" /> </p>
 🔥 GitHub Contribution Streak
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rhimkhan&theme=dark&background=0d1117&ring=58a6ff&fire=58a6ff" alt="GitHub Streak" width="600" /> </p>
-🎓 Education
-Field	Details
-🎓 Degree	Bachelor of Technology (B.Tech)
-🏫 College	Amity University Gwalior
-📚 Branch	Computer Science & Engineering with AI & Machine Learning
-📅 Year	3rd Year
-📍 Location	Gwalior, Madhya Pradesh, India
-📚 Learning & Growth
-Currently Learning 🧠
-🔬 Advanced Deep Learning (Neural Networks, CNNs, RNNs, Transformers)
-☁️ Cloud Architecture & Deployment (AWS, Google Cloud, Azure)
-🔗 Microservices Architecture & System Design
-🤖 Generative AI & Large Language Models (LLMs, GPT, Transformers)
-📈 Advanced Data Science & Big Data Analytics
-🌐 DevOps & Infrastructure (Docker, Kubernetes)
-My Goals 🎯
-✅ Build production-grade AI/ML applications deployed at scale
-✅ Contribute meaningfully to open-source projects
-✅ Master cloud infrastructure and DevOps practices
-✅ Create end-to-end ML pipelines and data platforms
-✅ Develop impactful solutions for real-world problems
-✅ Build a strong professional network in tech
-Key Skills Summary 📋
-Category	Skills
-Languages	Python, Java, JavaScript, C++
-Web Dev	React, Node.js, Express, Flask, FastAPI, MongoDB, MySQL
-AI/ML	Machine Learning, Deep Learning, NLP, Computer Vision, YOLOv8
-Data Science	Pandas, Scikit-Learn, NumPy, Matplotlib, Feature Engineering
-DevOps & Tools	Git, GitHub, Docker, AWS, Postman, VS Code, Linux
-🏆 Highlights
-✨ Full-Stack Developer - Building complete web applications from frontend to backend
-🤖 AI/ML Enthusiast - Developing intelligent systems and predictive models
-💻 Problem Solver - Competitive programming and complex algorithmic challenges
-🚀 API Developer - Creating production-ready REST APIs and services
-📊 Data Scientist - Feature engineering, EDA, and data analysis
-🌱 Continuous Learner - Always exploring new technologies and best practices
-🔗 Team Player - Collaborative mindset and excellent communication
 
-📬 Let's Connect & Collaborate
-I'm always open to:
 
 🔴 Collaborating on AI/ML or full-stack web development projects
 🟡 Discussing technology, innovation, and interesting ideas
