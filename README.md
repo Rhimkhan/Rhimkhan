@@ -184,7 +184,6 @@ Platform	Link
 🌐 Portfolio	personal-portfolio-website
 👨‍💻 GitHub	github.com/rhimkhan
 🙌 Thank You for Visiting!
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rhimkhan&color=blueviolet&style=flat" alt="Profile Views" /> </p> <p align="center"> <b>⭐ If you find my work interesting, feel free to star my repositories!</b> <br/> <i>Let's collaborate and build amazing things together!</i> <br/><br/> <b>Made with ❤️ by Rhim Khan | Last Updated: January 2025</b> </p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rhimkhan&color=blueviolet&style=flat" alt="Profile Views" /> </p> <p align="center"> <b>⭐ If you find my work interesting, feel free to star my repositories!</b> <br/> <i>Let's collaborate and build amazing things together!</i>
 
 
