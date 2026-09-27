@@ -36,7 +36,7 @@ Technologies Used:
 Frontend: React (Vite), Tailwind CSS, HTML5, CSS3
 Backend: Node.js, Express.js, MongoDB
 Deployment: Vercel
-Key Features:
+Key Features::
 
 ✨ Modern, responsive design with smooth animations
 📧 Contact form with email notifications
@@ -99,7 +99,7 @@ Key Features:
 ✨ Current Focus: AI/ML projects and full-stack web applications
 🌱 Learning: Advanced deep learning and cloud technologies
 💬 Open To: Collaborations, discussions, and learning opportunities
-📊 Building: Intelligent, scalable, and impactful solution
+📊 Building: Intelligent, scalable, and impactful solution.
 
 📞 Contact & Links
 Platform	Link
