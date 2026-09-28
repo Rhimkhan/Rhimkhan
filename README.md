@@ -99,7 +99,7 @@ Key Features:
 ✨ Current Focus: AI/ML projects and full-stack web applications
 🌱 Learning: Advanced deep learning and cloud technologies
 💬 Open To: Collaborations, discussions, and learning opportunities
-📊 Building: Intelligent, scalable, and impactful solution.
+📊 Building: Intelligent, scalable, and impactful solutions.
 
 📞 Contact & Links
 Platform	Link
