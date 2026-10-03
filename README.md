@@ -1,295 +1,288 @@
-# 👋 Hi, I'm Rhim Khan
+# <h1 align="center">👋 Hi, I'm Rhim Khan</h1>
 
 <p align="center">
-  <b>AI & ML Specialist | Full Stack Developer | Python Enthusiast</b>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rhimkhan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:rhim78975730@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/rhimkhan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-🟢_Building_&_Learning-brightgreen?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/College-Amity_University_Gwalior-blue?style=flat-square" alt="College" />
-  <img src="https://img.shields.io/badge/Degree-B.Tech_CSE_AI_%26_ML-blueviolet?style=flat-square" alt="Degree" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=DC2626&center=true&vCenter=true&width=700&lines=🤖+AI+%26+ML+Specialist;💻+Full+Stack+Developer;🚀+Building+Intelligent+Solutions;Python+%7C+JavaScript+%7C+React+%7C+Flask" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhimkhan/)
+  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhim78975730@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rhimkhan)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://personal-portfolio-website-r-him-khan.vercel.app)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=rhimkhan&color=DC2626&style=flat-square)
 
-Hi! I'm **Rhim Khan**, a passionate **AI & ML specialist and Full Stack developer** currently in my **3rd Year at Amity University Gwalior**. I'm enthusiastic about building intelligent applications, developing scalable web solutions, and solving complex problems using machine learning and data science.
+</div>
 
-I specialize in:
-- 🤖 **Machine Learning & AI** (Classification, Regression, Object Detection, NLP)
-- 💻 **Full-Stack Web Development** (React, Node.js, Express, MongoDB)
-- 📊 **Data Analysis & Preprocessing** (Feature Engineering, EDA)
-- 🚀 **Building REST APIs** (Flask, Express, Production-ready)
-- 🎯 **Problem-Solving** with Python and JavaScript
+---
 
-**Philosophy:** *"I believe in combining AI/ML expertise with solid web development to create intelligent, user-friendly solutions that solve real-world problems."*
+## 🎯 About Me
+
+I'm **Rhim Khan**, an **AI & ML Specialist** and **Full Stack Developer** passionate about building intelligent applications and scalable web solutions. Currently pursuing **B.Tech in Computer Science & Engineering with AI and Machine Learning** at **Amity University Gwalior** (3rd Year).
+
+I combine **machine learning expertise** with **solid full-stack development** to create innovative solutions that solve real-world problems.
+
+**Currently Building:** 🚀 AI/ML projects, full-stack applications  
+**Always Learning:** 📚 Deep learning, cloud architecture, system design  
+**Open To:** 🤝 Collaborations, discussions, and opportunities
+
+---
+
+## 💼 What I Do
+
+### 🤖 Machine Learning & AI
+- Classification & Regression Models
+- Object Detection (YOLOv8, Computer Vision)
+- Natural Language Processing (NLP)
+- Data Preprocessing & Feature Engineering
+- Model Evaluation & Deployment
+
+### 💻 Full-Stack Web Development
+- **Frontend:** React, HTML5, CSS3, Tailwind CSS
+- **Backend:** Node.js, Express, Flask, FastAPI
+- **APIs:** RESTful architecture & integration
+- **Databases:** MongoDB, MySQL, Firebase
+- **Deployment:** Vercel, AWS
+
+### 📊 Data Science & Analysis
+- Pandas, NumPy, Scikit-Learn
+- Data Visualization & Insights
+- EDA & Statistical Analysis
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-### 📝 **Programming Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp&theme=dark" width="250" alt="Languages" />
-</p>
+### 📝 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-**Python** | **Java** | **JavaScript** | **C++**
+### 🎨 Frontend Development
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-### 🎨 **Frontend Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" width="280" alt="Frontend" />
-</p>
+### 🔧 Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-**React** | **HTML5** | **CSS3** | **Tailwind CSS**
+### 🗄️ Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
-### 🔧 **Backend Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=dark" width="320" alt="Backend" />
-</p>
+### 🤖 AI/ML & Data Science
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
-**Node.js** | **Express.js** | **Flask** | **FastAPI**
-
-### 🗄️ **Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" width="240" alt="Databases" />
-</p>
-
-**MongoDB** | **MySQL** | **Firebase**
-
-### ⚙️ **Tools & Technologies**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws&theme=dark" width="260" alt="Tools" />
-</p>
-
-**Git** | **GitHub** | **VS Code** | **AWS**
-
-### 🤖 **AI/ML & Data Science**
-<p>
-  <img src="https://img.shields.io/badge/Python-Pandas-0a0a0a?style=for-the-badge&logo=python&logoColor=36B9CC" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-Machine_Learning-0a0a0a?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/YOLOv8-Object_Detection-0a0a0a?style=for-the-badge&logo=python&logoColor=36B9CC" alt="YOLOv8" />
-  <img src="https://img.shields.io/badge/NLP-Text_Analysis-0a0a0a?style=for-the-badge&logo=python&logoColor=36B9CC" alt="NLP" />
-</p>
-
-**Pandas** | **Scikit-Learn** | **YOLOv8** | **NLP** | **Feature Engineering** | **Data Preprocessing**
+### ⚙️ Developer Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 1. 💼 Personal Portfolio Website
-**A full-stack portfolio platform showcasing my work and connecting with opportunities**
+**A modern full-stack portfolio platform showcasing projects and opportunities**
 
-**Description:** A complete full-stack portfolio website built with React (Vite) frontend and Node.js/Express backend with MongoDB database. Features a REST API for dynamic project management, contact form with email notifications, and responsive design.
+A complete full-stack portfolio website built with modern technologies. Features a React (Vite) frontend with beautiful UI, Node.js/Express backend API, and MongoDB database for dynamic content management.
 
-**Tech Stack:** 
-- **Frontend:** React (Vite), HTML5, CSS3, Tailwind CSS
-- **Backend:** Node.js, Express.js, MongoDB
-- **Deployment:** Vercel (Frontend)
+**Technologies:** React (Vite) | Tailwind CSS | Node.js | Express | MongoDB | Vercel
 
 **Key Features:**
-- 🎨 Modern, responsive UI with smooth animations
+- ✨ Modern, responsive design with smooth animations
 - 📧 Contact form with email notifications
 - 🗂️ Dynamic project management via REST API
-- 📱 Mobile-friendly design
-- ⚡ Fast performance with Vite build
+- 📱 Fully mobile-friendly interface
+- ⚡ Optimized performance with Vite
 
-**Links:** 
-[🌐 Live Demo](https://personal-portfolio-website-r-him-khan.vercel.app) | [💻 Source Code](https://github.com/rhimkhan/personal-portfolio-website)
+**[🌐 Live Demo](https://personal-portfolio-website-r-him-khan.vercel.app) | [💻 Source Code](https://github.com/rhimkhan/personal-portfolio-website)**
 
 ---
 
 ### 2. 🤖 Object Detection API
-**Real-time object detection REST API powered by YOLOv8**
+**Real-time object detection REST API powered by YOLOv8 and Flask**
 
-**Description:** A production-ready REST API built with Flask that serves real-time object detection using the YOLOv8 model. Accepts images and returns detected objects with precise bounding box coordinates and confidence scores.
+A production-ready REST API that serves real-time object detection using the YOLOv8 model. Accepts images and returns detected objects with precise bounding box coordinates and confidence scores.
 
-**Tech Stack:**
-- **Backend:** Flask, Python
-- **AI/ML:** YOLOv8 (Ultralytics)
-- **API:** REST API with JSON responses
-- **Processing:** OpenCV, NumPy
+**Technologies:** Flask | Python | YOLOv8 | OpenCV | NumPy
 
 **Key Features:**
 - 🎯 Real-time object detection with high accuracy
-- 📦 Bounding box coordinates and confidence scores
+- 📦 Precise bounding box coordinates
+- 📊 Confidence scores for each detection
 - ⚡ Efficient image processing pipeline
-- 🔌 RESTful API architecture
-- 📊 Support for multiple object classes
+- 🔌 Clean RESTful API architecture
 
-**Links:** 
-[💻 Source Code](https://github.com/rhimkhan/object-detection-api)
+**[💻 Source Code](https://github.com/rhimkhan/object-detection-api)**
 
 ---
 
 ### 3. 🚢 Titanic Survival Prediction
 **Machine Learning classification model predicting passenger survival**
 
-**Description:** A comprehensive machine learning project using the classic Titanic dataset. Implements data preprocessing, exploratory data analysis (EDA), feature engineering, and multiple classification algorithms to predict passenger survival with high accuracy.
+A comprehensive machine learning project implementing data preprocessing, EDA, feature engineering, and multiple classification algorithms on the classic Titanic dataset.
 
-**Tech Stack:**
-- **Language:** Python
-- **Libraries:** Pandas, Scikit-Learn, NumPy, Matplotlib
-- **Algorithms:** Logistic Regression, Random Forest, SVM, Decision Trees
-- **Techniques:** Cross-validation, Hyperparameter tuning
+**Technologies:** Python | Pandas | Scikit-Learn | NumPy | Matplotlib | Seaborn
 
 **Key Features:**
 - 📊 Detailed Exploratory Data Analysis (EDA)
 - 🔧 Advanced feature engineering & preprocessing
 - 🤖 Multiple ML algorithms comparison
-- 📈 Model evaluation & performance metrics
+- 📈 Comprehensive model evaluation & metrics
 - 🎯 Hyperparameter optimization
-- 📉 Data visualization & insights
 
-**Links:** 
-[💻 Source Code](https://github.com/rhimkhan/Titanic-prediction)
+**[💻 Source Code](https://github.com/rhimkhan/Titanic-prediction)**
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rhimkhan&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhimkhan&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="340" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rhimkhan&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=DC2626&text_color=ffffff" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhimkhan&layout=compact&langs_count=8&theme=dark&bg_color=0d1117&title_color=DC2626&text_color=ffffff" alt="Top Languages" />
 </p>
 
+---
+
+## 🔥 Contribution Streak
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rhimkhan&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&stroke=c9d1d9" width="400" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rhimkhan&theme=dark&background=0d1117&ring=DC2626&fire=DC2626&stroke=DC2626" alt="GitHub Streak" width="100%" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/rhimkhan/rhimkhan/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
 ## 🎓 Education
 
-**Amity University Gwalior**
-- **Degree:** Bachelor of Technology (B.Tech)
-- **Branch:** Computer Science & Engineering with AI and Machine Learning
-- **Current Year:** 3rd Year
-- **Location:** Gwalior, Madhya Pradesh
-
-**Focus Areas:**
-- Artificial Intelligence & Machine Learning
-- Data Science & Analytics
-- Full-Stack Web Development
-- Advanced Algorithms & Data Structures
+| Field | Details |
+|-------|---------|
+| **🎓 Degree** | Bachelor of Technology (B.Tech) |
+| **🏫 College** | Amity University Gwalior |
+| **📚 Branch** | Computer Science & Engineering with AI & ML |
+| **📅 Year** | 3rd Year (Currently) |
+| **📍 Location** | Gwalior, Madhya Pradesh, India |
 
 ---
 
-## 📚 Learning & Growth
+## 📚 What I'm Currently Learning
 
-**Currently Exploring:**
-- 🔬 Advanced Deep Learning (Neural Networks, CNNs)
+### 🧠 Learning Areas
+- 🔬 Advanced Deep Learning (CNNs, RNNs, Transformers)
+- ☁️ Cloud Architecture & DevOps (AWS, Docker, Kubernetes)
+- 🤖 Generative AI & Large Language Models (LLMs, GPT)
+- 📈 Advanced Data Science & Big Data Analytics
 - 🌐 Microservices & System Design
-- ☁️ Cloud deployment (AWS, Google Cloud)
-- 📊 Large Language Models (LLMs) & Generative AI
 
-**Future Goals:**
-- Build production-grade AI/ML applications
-- Contribute to open-source projects
-- Master cloud infrastructure & DevOps
-- Develop end-to-end ML pipelines
-- Create impactful AI solutions for real-world problems
+### 🎯 My Goals
+- ✅ Build production-grade AI/ML applications at scale
+- ✅ Contribute to open-source projects
+- ✅ Master cloud infrastructure & DevOps
+- ✅ Create end-to-end ML pipelines
+- ✅ Develop impactful real-world solutions
 
 ---
 
-## 💼 Skills Summary
+## 📋 Key Skills Summary
 
 | Category | Skills |
 |----------|--------|
-| **Languages** | Python, Java, JavaScript, C++ |
-| **Web Dev** | React, HTML5, CSS3, Tailwind, Node.js, Express, Flask |
-| **Databases** | MongoDB, MySQL, Firebase |
-| **ML/AI** | Machine Learning, Deep Learning, NLP, Computer Vision, YOLOv8 |
-| **Tools** | Git, GitHub, VS Code, AWS, Jupyter, Postman |
-| **Data Science** | Pandas, Scikit-Learn, NumPy, Matplotlib, Feature Engineering |
+| **Languages** | Python, JavaScript, Java, C++ |
+| **Web Development** | React, Node.js, Express, Flask, FastAPI |
+| **Databases** | MongoDB, MySQL, Firebase, PostgreSQL |
+| **AI/ML** | Machine Learning, Deep Learning, NLP, Computer Vision, YOLOv8 |
+| **Data Science** | Pandas, NumPy, Scikit-Learn, Matplotlib, Feature Engineering |
+| **DevOps & Tools** | Git, GitHub, Docker, AWS, VS Code, Postman, Linux |
 
 ---
 
-## 🌟 Highlights
+## 🏆 Highlights
 
-✅ **Full-Stack Developer** - Building complete web applications from frontend to backend  
-✅ **AI/ML Enthusiast** - Developing intelligent systems and predictive models  
-✅ **Problem Solver** - Solving complex coding and algorithmic challenges  
-✅ **API Developer** - Creating production-ready REST APIs  
-✅ **Continuous Learner** - Always exploring new technologies and best practices  
-✅ **CSE AI & ML Student** - Specialized education in cutting-edge technologies  
+✨ **Full-Stack Developer** - Building complete web applications from frontend to backend  
+🤖 **AI/ML Enthusiast** - Developing intelligent systems and predictive models  
+💻 **Problem Solver** - Competitive programming and algorithmic challenges  
+🚀 **API Developer** - Creating production-ready REST APIs and services  
+📊 **Data Scientist** - Feature engineering, EDA, and data analysis  
+🌱 **Continuous Learner** - Exploring new technologies and best practices  
+🔗 **Team Player** - Collaborative mindset and excellent communication
 
 ---
 
 ## 📬 Let's Connect & Collaborate
 
 I'm always open to:
-- 💡 **Collaborating** on interesting AI/ML or web development projects
-- 🤝 **Learning** from experienced developers and researchers
-- 🌐 **Contributing** to open-source initiatives
-- 💼 **Networking** with fellow developers and tech enthusiasts
-- 🚀 **Discussing** ideas for innovative tech solutions
+
+🔴 **Collaborating** on AI/ML or full-stack web development projects  
+🟡 **Discussing** technology, innovation, and interesting ideas  
+🟢 **Contributing** to open-source initiatives and communities  
+🔵 **Networking** with fellow developers, researchers, and tech enthusiasts  
+🟣 **Exploring** new opportunities and career growth
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhimkhan/)
+  [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhim78975730@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Visit_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://personal-portfolio-website-r-him-khan.vercel.app)
+  [![GitHub](https://img.shields.io/badge/View_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rhimkhan)
+
+</div>
+
+---
+
+## 📈 Recent Activity
+
+✨ **Current Focus:** AI/ML projects and full-stack web applications  
+🌱 **Learning:** Advanced deep learning and cloud technologies  
+💬 **Open To:** Collaborations, discussions, and learning opportunities  
+📊 **Building:** Intelligent, scalable, and impactful solutions  
+
+---
+
+## 📞 Contact & Links
+
+| Platform | Link |
+|----------|------|
+| 📧 **Email** | [rhim78975730@gmail.com](mailto:rhim78975730@gmail.com) |
+| 💼 **LinkedIn** | [linkedin.com/in/rhimkhan](https://www.linkedin.com/in/rhimkhan/) |
+| 🌐 **Portfolio** | [personal-portfolio-website](https://personal-portfolio-website-r-him-khan.vercel.app) |
+| 👨‍💻 **GitHub** | [github.com/rhimkhan](https://github.com/rhimkhan) |
+
+---
+
+## 🙌 Thank You for Visiting!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rhimkhan/" target="_blank">
-    <img src="https://img.shields.io/badge/Professional_Network-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:rhim78975730@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/rhimkhan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-View_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=rhimkhan&color=DC2626&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <b>⭐ If you find my work interesting, feel free to star my repositories!</b>
+  <br/>
+  <i>Let's collaborate and build amazing things together!</i>
+  <br/><br/>
+  <b>Made with ❤️ by Rhim Khan | Last Updated: October 2026</b>
 </p>
 
 ---
-
-## 💻 Quick Links
-
-- 📌 **GitHub Profile:** https://github.com/rhimkhan
-- 💼 **LinkedIn:** https://www.linkedin.com/in/rhimkhan/
-- 📧 **Email:** rhim78975730@gmail.com
-- 🌐 **Portfolio:** https://personal-portfolio-website-r-him-khan.vercel.app
-
----
-
-## 📝 Notes
-
-- I regularly update my profile with new projects and learning progress
-- Feel free to explore my repositories - they showcase my coding journey and growth
-- Open to collaboration and feedback from the developer community
-- Always excited to connect with fellow developers, AI enthusiasts, and tech innovators!
-
----
-
-<p align="center">
-  <i>Last Updated: January 2025</i>
-  <br/>
-  ⭐ Feel free to star my repositories if you find them helpful! 
-  <br/>
-  <b>Together, let's build intelligent solutions that make a difference! 🚀</b>
-</p>
-
----
-
-## 🎯 Next Steps
-
-1. ✅ **Copy this file to your repository:** Rename it as `README.md`
-2. ✅ **Review the content:** Make sure everything is accurate
-3. ✅ **Update links if needed:** Verify all GitHub, LinkedIn, and portfolio links
-4. ✅ **Push to GitHub:**
-   ```bash
-   git add README.md
-   git commit -m "Update profile README with projects and skills"
-   git push origin main
-   ```
-5. ✅ **Visit your profile:** https://github.com/rhimkhan
-6. ✅ **Share with the world:** Your professional profile is ready! 🎉
