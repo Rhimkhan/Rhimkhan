@@ -1,4 +1,4 @@
-# <h1 align="center">👋 Hi, I'm R him Khan</h1>
+# <h1 align="center">👋 Hi, I'm R him Khan.</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=DC2626&center=true&vCenter=true&width=700&lines=🤖+AI+%26+ML+Specialist;💻+Full+Stack+Developer;🚀+Building+Intelligent+Solutions;Python+%7C+JavaScript+%7C+React+%7C+Flask" alt="Typing SVG" />
