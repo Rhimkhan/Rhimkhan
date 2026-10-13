@@ -2,10 +2,34 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=DC2626&center=true&vCenter=true&width=700&lines=🤖+AI+%26+ML+Specialist;💻+Full+Stack+Developer;🚀+Building+Intelligent+Solutions;Python+%7C+JavaScript+%7C+React+%7C+Flask" alt="Typing SVG" />
-</p>
+# Hi, I'm Rhimkhan 👋
 
+Front-end developer focused on clean, accessible and consistent web interfaces.
+
+## About me
+
+- 🔭 Working on: personal web projects and UI practice
+- 🌱 Learning: modern JavaScript, accessibility and responsive design
+- 💬 Ask me about: HTML, CSS, JavaScript and Git
+- 📫 Contact: open an issue or message me through my GitHub profile
+
+## Tech stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## Projects
+
+Browse my work on the [repositories tab](https://github.com/Rhimkhan?tab=repositories).
+
+## Connect
+
+- [GitHub profile](https://github.com/Rhimkhan)
 ---
 
+<div align="center">
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhimkhan/)
