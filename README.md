@@ -1,4 +1,4 @@
-# Hi, I'm Rhimkhan 👋
+# Hi, I'm Rhimkhan. 👋
 
 ## About
 
