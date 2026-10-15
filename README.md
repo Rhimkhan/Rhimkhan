@@ -37,7 +37,7 @@ A full-stack portfolio site with a React (Vite) frontend and a Node.js/Express +
 
 A Flask REST API serving real-time object detection with YOLOv8, returning bounding box coordinates and confidence scores for detected objects.
 
-### [Sentiment Analysis Pipeline](https://github.com/Rhimkhan/sentiment-analysis-project)
+### [Sentiment Analysis Pipeline](https://github.com/Rhimkhan/sentiments-analysis-project)
 
 A Python-based NLP pipeline that classifies text sentiment in real time, built as part of an AI internship assignment.
 
