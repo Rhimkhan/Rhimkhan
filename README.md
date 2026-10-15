@@ -1,6 +1,6 @@
 # Hi, I'm Rhimkhan. 👋
 
-## About
+## About,as
 
 I'm a 3rd-year B.Tech student in Artificial Intelligence & Machine Learning at Amity University, Gwalior. I build machine learning projects and full-stack web applications, and I completed a 4-week AI internship focused on real-time NLP sentiment analysis.
 
