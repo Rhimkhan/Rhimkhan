@@ -11,7 +11,7 @@ I'm currently practicing Data Structures & Algorithms and expanding into Java, a
 <summary>Education</summary>
 
 **B.Tech in Artificial Intelligence & Machine Learning**
-Amity University, Gwalior — Ongoing (3rd Year)
+Amity University, Gwalior — Ongoing (3rd ar)
 
 </details>
 
