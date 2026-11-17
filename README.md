@@ -1,62 +1,43 @@
-# Hi, I'm Rhimkhan. ✋
+<p data-importer="text" align="left">Hello World!!</p>
 
-## About
+###
 
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+</div>
 
-I'm a 3rd-year B.Tech student in Artificial Intelligence & Machine Learning at Amity University, Gwalior. I build machine learning projects and full-stack web applications, and I completed a 4-week AI internship focused on real-time NLP sentiment analysis.
+###
 
-I'm currently practicing Data Structures & Algorithms and expanding into Java, alongside my core work in Python and C++.
+<div data-importer="socials" align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
 
-<details>
-<summary>Education</summary>
+###
 
-**B.Tech in Artificial Intelligence & Machine Learning**
-Amity University, Gwalior — Ongoing (3rd ar)
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/rhimkhan/rhimkhan/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/rhimkhan/rhimkhan/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-</details>
+###
 
-<details>
-<summary>Certifications & internship</summary>
+<img data-importer="snake" src="https://raw.githubusercontent.com/rhimkhan/rhimkhan/snake-output/snake.svg" alt="Snake animation" />
 
-- **AI Intern, Codtech IT Solutions Pvt. Ltd.** (Jul 2026 – Aug 2026) — built a real-time NLP sentiment analysis pipeline.
-- **Python for Data Science**, Reliance Foundation Skilling Academy (Skill India Digital)
-- **Fundamentals of Artificial Intelligence**, Wadhwani Foundation
+###
 
-</details>
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=rhimkhan.rhimkhan&"  />
+</div>
 
-## Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-## Projects
-
-### [Personal Portfolio Website](https://github.com/Rhimkhan/personal-portfolio-website)
-
-A full-stack portfolio site with a React (Vite) frontend and a Node.js/Express + MongoDB backend, including a REST API for project management and a contact form with email notifications. [View the live site](https://personal-portfolio-website-r-him-khan.vercel.app).
-
-### [Object Detection API](https://github.com/Rhimkhan/object-detection-api)
-
-A Flask REST API serving real-time object detection with YOLOv8, returning bounding box coordinates and confidence scores for detected objects.
-
-### [Sentiment Analysis Pipeline](https://github.com/Rhimkhan/sentiments-analysis-project)
-
-A Python-based NLP pipeline that classifies text sentiment in real time, built as part of an AI internship assignment.
-
-### [House Price Predictor](https://github.com/Rhimkhan/house-price-predictor)
-
-A regression-based machine learning model that predicts housing prices from historical data, using feature engineering and model evaluation.
-
-### [Titanic Survival Prediction](https://github.com/Rhimkhan/Titanic-prediction)
-
-A classification model predicting passenger survival on the Titanic dataset, comparing Logistic Regression, Random Forest, SVM, and Decision Tree algorithms.
-
-## GitHub Stats
-
-![Rhimkhan's GitHub stats, showing total stars, commits, pull requests, issues, and contribution grade](https://github-readme-stats.vercel.app/api?username=Rhimkhan&show_icons=true&theme=dark&hide_border=true&card_width=400)
-![Rhimkhan's most used programming languages by repository size](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhimkhan&layout=compact&theme=dark&hide_border=true&card_width=400)
-
-## Connect
-
-- [Connect with me on LinkedIn](https://www.linkedin.com/in/rhimkhan/)
-- [View my repositories on GitHub](https://github.com/Rhimkhan)
-- [Email me](mailto:rhim78975730@gmail.com)
+###
