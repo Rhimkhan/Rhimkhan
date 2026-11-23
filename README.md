@@ -1,42 +1,105 @@
-<p data-importer="text" align="left">Hello world!!</p>
-###
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-</div>
+<!-- ================= PROFILE HEADER ================= -->
 
-###
+<h1 align="center">Hi, I'm R HIM KHAN 👋</h1>
 
-<div data-importer="socials" align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
+<h3 align="center">Full Stack Developer | C++ | Python</h3>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF3333&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Full+Stack+Developer+in+Progress;Learning+Data+Structures+%26+Algorithms;Building+Projects+and+Learning+Every+Day" alt="Typing animation" />
+</p>
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/rhimkhan/rhimkhan/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/rhimkhan/rhimkhan/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rhimkhan&label=PROFILE+VIEWS&color=red&style=for-the-badge" alt="Profile views" />
+</p>
 
-###
+---
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/rhimkhan/rhimkhan/snake-output/snake.svg" alt="Snake animation" />
+## 👨‍💻 About Me
 
-###
+- 🎓 B.Tech Computer Science & Engineering student at Amity University Madhya Pradesh.
+- 📍 Gwalior, Madhya Pradesh, India.
+- 💻 I can code in C++ and Python.
+- 🌱 Currently learning Data Structures and Algorithms.
+- 🎯 My career goal is to become a Full Stack Developer.
+- 🚀 I enjoy building projects and learning new technologies.
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=rhimkhan.rhimkhan&"  />
-</div>
+---
 
-###
+## 🛠️ Skills & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,express,mongodb,git,github,vscode&theme=dark" alt="Skills and technologies" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Code Review Agent
+An AI-based code review project.
+
+- Repository: [Code Review Agent](https://github.com/Rhimkhan/code-review-agent)
+
+### 2. TaskFlow
+A task management application.
+
+- Live Demo: [TaskFlow](https://taskflow-gamma-seven.vercel.app/)
+
+### 3. VoxSentry
+An AI voice-cloning detection project.
+
+- Live Demo: [VoxSentry](https://voxsentry-web.vercel.app/)
+
+### 4. House Price Predictor
+A machine learning project for house price prediction.
+
+- Repository: [House Price Predictor](https://github.com/Rhimkhan/house-price-predictor)
+- Live Demo: [Open Project](https://house-price-predictor-r-him-khan.vercel.app/)
+
+### 5. Titanic Prediction
+A machine learning classification project.
+
+- Repository: [Titanic Prediction](https://github.com/Rhimkhan/Titanic-prediction)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rhimkhan&show_icons=true&theme=dark&hide_border=true&title_color=ff3333&icon_color=ff3333&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhimkhan&layout=compact&theme=dark&hide_border=true&title_color=ff3333&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rhimkhan&theme=dark&hide_border=true&ring=ff3333&fire=ff3333&currStreakLabel=ff3333" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rhimkhan/Rhimkhan/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Rhimkhan">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/rhimkhan/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=red" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile!</b>
+</p>
