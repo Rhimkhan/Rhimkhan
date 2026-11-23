@@ -81,13 +81,18 @@ A machine learning classification project.
 
 ---
 
-## 🐍 Contribution Snake
+
+
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rhimkhan/Rhimkhan/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img
+    src="https://raw.githubusercontent.com/Rhimkhan/Rhimkhan/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 </p>
 
----
 
 ## 🤝 Connect With Me
 
